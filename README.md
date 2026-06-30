@@ -19,6 +19,7 @@ OakTown Library demonstrates core object-oriented programming principles:
 - Member management
 
 ## Project Structure
+'''
 OakTownLibrary/
 ├── OakTownLibrary/             # Main console application
 │   ├── Book.cs
@@ -33,6 +34,8 @@ OakTownLibrary/
     ├── MagazineTest.cs
     ├── ReferenceBookTest.cs
     └── LibraryTest.cs
+'''
+
 ## Tech Stack
 
 - C# / .NET Framework
