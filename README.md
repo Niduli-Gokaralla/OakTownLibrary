@@ -19,22 +19,21 @@ OakTown Library demonstrates core object-oriented programming principles:
 - Member management
 
 ## Project Structure
-'''
+
 OakTownLibrary/
-├── OakTownLibrary/             # Main console application
-│   ├── Book.cs
-│   ├── ReferenceBook.cs
-│   ├── Magazine.cs
-│   ├── LibraryItem.cs          # Abstract base class
-│   ├── Library.cs              # Core catalogue logic (search, sample data)
-│   ├── Member.cs
-│   └── Program.cs              # Entry point / console UI
-└── OakTownLibraryTests/        # MSTest unit test project
-    ├── BookTest.cs
-    ├── MagazineTest.cs
-    ├── ReferenceBookTest.cs
-    └── LibraryTest.cs
-'''
+- OakTownLibrary/             (Main console application)
+  - Book.cs
+  - ReferenceBook.cs
+  - Magazine.cs
+  - LibraryItem.cs            (Abstract base class)
+  - Library.cs                (Core catalogue logic - search, sample data)
+  - Member.cs
+  - Program.cs                (Entry point / console UI)
+- OakTownLibraryTests/        (MSTest unit test project)
+  - BookTest.cs
+  - MagazineTest.cs
+  - ReferenceBookTest.cs
+  - LibraryTest.cs
 
 ## Tech Stack
 
