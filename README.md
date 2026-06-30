@@ -29,11 +29,10 @@ OakTownLibrary/
 │   ├── Member.cs
 │   └── Program.cs              # Entry point / console UI
 └── OakTownLibraryTests/        # MSTest unit test project
-├── BookTest.cs
-├── MagazineTest.cs
-├── ReferenceBookTest.cs
-└── LibraryTest.cs
-
+    ├── BookTest.cs
+    ├── MagazineTest.cs
+    ├── ReferenceBookTest.cs
+    └── LibraryTest.cs
 ## Tech Stack
 
 - C# / .NET Framework
